@@ -1,0 +1,13 @@
+.artifacts
+.DS_Store
+.artifacts
+.cache
+.idea
+.vscode
+.nodemonignore
+*.gitignore.*
+client/node_modules
+client/build
+server/node_modules
+out
+temp
