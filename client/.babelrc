@@ -1,8 +1,6 @@
 {
-  "presets": [],
-  "plugins": [
-    [
-      { "libraryName": "@material-ui/core", "libraryDirectory": "components", "camel2DashComponentName": false }
-    ]
-  ]
+  "presets": [
+    "react-app"
+  ],
+  "plugins": []
 }
